@@ -1,0 +1,9 @@
+.classpath
+.project
+.springBeans
+src/main/webapp/resources/vender
+target
+.settings
+jdbc.properties
+jdbc2.properties
+src/test/java/co/poetrypainting/persistence/JDBCTests.java
